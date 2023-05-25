@@ -1,0 +1,30 @@
+Within your group - create a Shared Google Doc and:
+
+Select a company or organization to research
+
+Medium-size is best
+Let’s avoid non-profits
+Not Champlain.edu
+1. Gather all the interesting info you can about the organization based on its domain names
+
+2. Gather all the interesting info you can about the organization based on its IP addresses
+
+3. Explore Google Hacking resources such as:
+
+https://www.exploit-db.com/google-hacking-database/
+
+http://www.powersearchingwithgoogle.com/course/aps/skills
+
+What interesting stuff can you find about your organization?
+
+4. Compile notes for further recon
+
+Networks to scan
+
+Systems to scan
+
+Data on applications
+
+Data on security systems
+
+Individuals to target (social engineering)

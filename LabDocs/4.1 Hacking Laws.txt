@@ -1,0 +1,32 @@
+Throughout the course we will be exploring the legal and ethical implications of hacking and what that means for pen-testers.
+
+ 
+
+1. Review the excerpt of the Computer Fraud and Abuse Act (CFAA) found at https://www.law.cornell.edu/uscode/text/18/1030
+
+It can be hard to follow, but read sections (2) "Intentionally access a computer with..." to (7) "With intent to extort from any person..."
+
+Deliverable 1.  Write a paragraph or two on how you think those conditions should be interpreted by Pen-Testers and what measures must testers have in place to avoid violating the CFAA.
+2. Vermont's state law (Title13 Crimes, Chapter 87 Computer Crimes) is much more straightforward:
+
+http://legislature.vermont.gov/statutes/fullchapter/13/087
+
+
+
+With particular attention to Sections 4102-4105:
+
+Deliverable 2.  Write a paragraph or two on how you think those conditions should be interpreted by Pen-Testers and what measures must testers have in place to avoid violating Vermont Title 13.
+The statute can also be found at: http://law.justia.com/codes/vermont/2016/title-13/chapter-87/
+
+3. Research on the FBI Cyber Most Wanted:
+
+Deliverable 3.
+
+Visit the FBI Cyber Most Wanted Page: https://www.fbi.gov/wanted/cyber
+
+
+and select one individual/group to research and answer the following:
+Brief Description of Crimes (Short Paragraph)
+What was there motive (Why do you think that carried out their activity- short paragraph)?
+What was their intent (what did the hope the intended outcome was - short paragraph)?
+Make sure to cite any sources!
