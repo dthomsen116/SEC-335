@@ -15,7 +15,7 @@ assignment may, for the purpose of assessing this assignment:
 ### Professor: _Mackenzie Marsocci_
 ### Semester: _Spring 2022_
 ### Student Name: _David Thomsen_
-### [NET-330 Tech Journal](https://github.com/dthomsen116/NET-330/wiki)
+### [SEC-335 Tech Journal](https://github.com/dthomsen116/SEC-335/wiki)
 
 ## REPO Description
 
